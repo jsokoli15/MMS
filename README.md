@@ -1,7 +1,7 @@
 # CMS (Clinic Menagment System )
 
 
-Manage a network of clinic System (multiple locations and doctors and time)
+Manage a network of clinic System (Multiple locations and doctors and time)
 Automate patient communication
 Maintain entire clinical administration
 Easy reservations in no time 
