@@ -1,0 +1,54 @@
+MEETING REPORT 4
+
+
+Team Name:	Medical  Management System   Date of Meeting: 8.4.2018
+
+Start Time: 10:30 End Time: 12:15    Meeting Location:  Epoka Labs
+
+Moderator:	Prof.Igli Hakrama	Recorder: Ibrahim Pisha
+Other Members Present: Alvi Lika, Neritan Hoxha, Rigels Hita, Kris Ferko, Ibrahim Pisha.
+
+Members Absent: 
+
+
+Topics Discussed:
+
+This week we discussed about :
+
+The overall project idea 
+Set  of features that are going to be includet in the project 
+Schema and the design of the database 
+The models we are going to represent  the database entities and their relations
+The programing approach we are going to follow . It should be object oriented 
+Also we discussed about UI
+
+
+Decisions Made:
+
+Start making the program database using  
+Start making some sketches about program UI.
+The type of database should be MySQL 
+For UI we should make use of Bootstrap
+As we shall use raw Php then we shoud follow the object oriented programing approach meaning the usage of classes to represent the core entities of the project .
+
+
+
+
+Tasks Assigned:
+
+Kris Ferko , Rigels Hita , Neritan Hoxha are responsible for the basic design of UI.
+Jaser Sokoli, Ibrahim Pisha , Alvi Lika are responsible for the technology to be used in order to build UI.
+(bootstrap,HTML , CSS and JS)
+All are going to think and discuss about the schema of the database . 
+
+
+
+
+
+
+Time, Place, and Agenda for Next Meeting:
+
+
+Friday 15.4.2018 ,Library of Tirana or Epoka Library/Labs.
+
+
