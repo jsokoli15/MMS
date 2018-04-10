@@ -1,4 +1,4 @@
-# MMS (Medical Menagement System )
+# MMS (Medical Management System )
 
 
 •	Manage a network of clinic System(Multiple locations and doctors and time)<br>
