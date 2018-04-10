@@ -15,3 +15,4 @@ In order to finish the idea we need to cowork with actual city clinics  so we ca
 Appointments can be cancelt by the patiens through the email with a automated response . An display of his timetable will we offered besides the one of Hospitals' doctors or Specialist doctor which he uses to book his patients visits or further treatment.
 
 All this data can be also accesed for urgent cases because his personal and medical datas are displayed there . We intend to wipe of queue so the public can have simpler ,faster and better healthcare.
+ 
